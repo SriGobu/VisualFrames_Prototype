@@ -6,10 +6,10 @@
     "index": true
   },
   "icons": {
-    "icon": "/assets/logo/logo-cream.png"
+    "icon": "/favicon-48.png"
   },
   "openGraph": {
-    "image": "/assets/hero/home-background.jpg"
+    "image": "https://visual-frames-prototype.vercel.app/previewLogo.png?v=2"
   },
   "accessibility": {
     "addBypassLinks": true
