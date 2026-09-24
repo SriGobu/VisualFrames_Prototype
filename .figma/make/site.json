@@ -1,0 +1,17 @@
+{
+  "title": "Visual Frames | Photography & Videography",
+  "description": "Visual Frames is a photography and videography studio offering wedding, portrait, event, commercial, videography, and branding & design services across Udumalpet, Pollachi, Tamil Nadu, and nationwide.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/assets/logo/logo-cream.png"
+  },
+  "openGraph": {
+    "image": "/assets/hero/home-background.jpg"
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
